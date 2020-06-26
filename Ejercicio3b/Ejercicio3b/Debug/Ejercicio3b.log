@@ -1,0 +1,4 @@
+﻿  Ejercicio3b.cpp
+D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio3b\Ejercicio3b\Ejercicio3b.cpp(7,6): warning C4101: 'x': variable local sin referencia
+D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio3b\Ejercicio3b\Ejercicio3b.cpp(17,34): warning C4101: 'error': variable local sin referencia
+  Ejercicio3b.vcxproj -> D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio3b\Debug\Ejercicio3b.exe

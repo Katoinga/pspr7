@@ -1,0 +1,4 @@
+﻿  Ejercicio3.cpp
+D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio3\Ejercicio3\Ejercicio3.cpp(9,29): warning C4305: 'inicializando': truncamiento de '__int64' a 'int'
+D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio3\Ejercicio3\Ejercicio3.cpp(9,13): warning C4309: 'inicializando': truncamiento de valor constante
+  Ejercicio3.vcxproj -> D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio3\Debug\Ejercicio3.exe
