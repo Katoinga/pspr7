@@ -1,0 +1,4 @@
+﻿  Ejercicio4.cpp
+D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio4\Ejercicio4\Ejercicio4.cpp(45,40): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio4\Ejercicio4\Ejercicio4.cpp(46,38): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Ejercicio4.vcxproj -> D:\UNSA-Virtual\PS\c++\PRACTICA7\Ejercicio4\Debug\Ejercicio4.exe
